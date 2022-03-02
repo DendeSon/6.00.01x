@@ -1,2 +1,2 @@
 # 6.00.01x
-MITx 6.00.1xIntroduction to Computer Science and Programming Using Python
+Work submitted to MITx 6.00.1x Introduction to Computer Science and Programming Using Python 
