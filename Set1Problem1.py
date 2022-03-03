@@ -1,7 +1,7 @@
 """
 Objective: Find vowels in a given string, 's'.
-'s' is given by the grader
-Prints out how many vowels are found in a string, 's'
+'s' is given by the grader.
+Prints out how many vowels are found in a string, 's'.
 """
 
 vowels = set("aeiou")

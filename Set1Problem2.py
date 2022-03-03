@@ -1,7 +1,7 @@
 """
-Objective: Find how many times 'bob' appears in a string, 's'
-'s' is given by the grader
-Prints out how many times 'bob' was found in a string, 's'
+Objective: Find how many times 'bob' appears in a string, 's'.
+'s' is given by the grader.
+Prints out how many times 'bob' was found in a string, 's'.
 """
 
 b = "bob"

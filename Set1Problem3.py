@@ -1,9 +1,9 @@
 """
-Objective: Find the longest substring in alphabetical order in string, 's'
-'s' is given by the grader
+Objective: Find the longest substring in alphabetical order in string, 's'.
+'s' is given by the grader.
 Letters are added into the 'longest' string and appended to 'hold' once an 
 earlier letter is found. 
-Prints out the longest substring in alphabetical order, 'hold'
+Prints out the longest substring in alphabetical order, 'hold'.
 """
 
 hold =[]
