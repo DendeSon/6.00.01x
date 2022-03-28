@@ -1,6 +1,7 @@
 # MITx 6.00.1x Introduction to Computer Science and Programming Using Python 
 Work submitted to MITx 6.00.1x Introduction to Computer Science and Programming Using Python
-**[Introduction to Computer Science and Programming Using Python]https://www.edx.org/course/introduction-to-computer-science-and-programming-7** 
+
+**[Introduction to Computer Science and Programming Using Python](https://www.edx.org/course/introduction-to-computer-science-and-programming-7)** 
 
 # Problem Set 1
 https://github.com/DendeSon/6.00.01x/tree/main/Problem%20Set%201
