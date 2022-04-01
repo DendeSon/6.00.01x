@@ -22,4 +22,4 @@ https://github.com/DendeSon/6.00.01x/tree/main/Problem%20Set%204
 https://github.com/DendeSon/6.00.01x/tree/main/Problem%20Set%205
 
 # Final
-N/A
+https://github.com/DendeSon/6.00.01x/tree/main/Final
